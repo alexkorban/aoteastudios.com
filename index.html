@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+<div class="home">
+  <style>
+  blockquote {
+      font-size: smaller; clear: both; margin-top: 1.5em;
+  }
+  </style>
+  
+  
+  <h2>Popular business analysis charts</h2>
+  
+  <div>
+      <div style = "display: inline-block; text-align: center; width: 49%">
+        <h4 style = "margin-bottom: 0.4em; margin-top: 0.5em">Business analysis framework</h4>
+        <a href="/files/business-analysis-poster.pdf"><img src="/img/poster-screenshot.png" alt="Business analysis framework" style = "width: 95%"/></a><br/><a href = "/files/business-analysis-poster.pdf">Download</a>
+      </div>
+
+      <div style = "display: inline-block; text-align: center; width: 49%">            <h4 style = "margin-bottom: 0.4em; margin-top: 0.5em">Change management</h4>
+        <a href="/files/change-management-poster-2.pdf"><img src="/img/change-management-poster-2-400.png" alt="Change management"  style = "width: 95%"/></a><br/>
+        <a href = "/files/change-management-poster-2.pdf">Download</a>
+      </div>
+      
+      <div style = "display: inline-block; text-align: center; width: 49%">            <h4 style = "margin-bottom: 0.4em; margin-top: 0.5em">Agile team roles &amp; responsibilities</h4>
+        <a href="/files/agile-roles-responsibilities-poster.pdf"><img src="/img/agile-poster.png" alt="Agile roles" style = "width: 95%" /></a><br/>
+        <a href = "/files/agile-roles-responsibilities-poster.pdf">Download</a>
+      </div>
+        
+      <div style = "display: inline-block; text-align: center; width: 49%">            <h4 style = "margin-bottom: 0.4em; margin-top: 0.5em">The impact of poor requirements</h4>
+        <a href="/files/poor-reqs-impact-poster.pdf"><img src="/img/poor-reqs-impact-poster.png" alt="Agile roles" style = "width: 95%" /></a><br/>
+        <a href = "/files/poor-reqs-impact-poster.pdf">Download</a>
+      </div>
+    </div>
+          
+  <h2 style = "margin-top: 1.5em">Business analysis whitepapers</h2></div>
+
+  <h4 style = "margin-bottom: 0.2em"><a href="/files/BA-Lifecycle.pdf">Business Analysis Lifecycle</a></h4>
+  <p>This whitepaper introduces the concept of the business analysis lifecycle to provide a structured and repeatable approach to solving business problems, and to provide a means of improving BA performance and quality.</p>
+
+  <div style = "display: none">
+  <strong><a href="/resources/navigating-the-babok/" title="Navigating the BABOK">Navigating the BABOK 2.0</a></strong>
+  This paper contains 6 visual maps of the different knowledge areas in the BABOK. Each map is a single page diagram that shows the tasks, techniques, stakeholders and documents. The paper also shows how the areas are interconnected and provides a diagram of the requirements lifecycle. Additionally, it maps the knowledge areas to different project phases. It provides great supplementary material if you're studying the BABOK or use it in your work.
+  </div>
+
+  <h4 style = "margin-bottom: 0.2em"><a href="/files/Modern-Business-Analysis.pdf" title="An Overview of Modern Business Analysis">An overview of modern business analysis</a></h4>
+  <p>Are you starting out in business analysis? Do you sometimes find it a bit overwhelming and confusing? This paper will be useful. It provides a simple overview of modern business analysis, and shows the context it's performed in (it's important to see the bigger picture!).</p>
+  
+<h2 style = "margin-top: 1.5em">Business analysis checklists</h2>
+
+<h4 style = "margin-bottom: 0.2em"><a href="/files/ba-project-checklist.pdf">Project initiation checklist for business analysts</a></h4>
+<p>Use this checklist to ensure a smooth start of a project.</p>
+
+<h4 style = "margin-bottom: 0.2em"><a href="/files/ba-handover-checklist.pdf">Project handover checklist for business analysts</a></h4>
+<p>Use this checklist to make sure you get all the relevant information when you take over a project in progress.</p>
+
+<h2 style = "margin-top: 1.5em">Popular articles</h2>
+
+<h4><a href = "/2012/10/easily-track-the-state-of-ba-documents-with-this-kanban-technique/">Tracking the state of BA documents using a Kanban technique</a></h4>
+<h4><a href = "/2012/06/business-analyst-a-title-that-doesnt-reflect-the-profession/">Business Analyst: a title that doesn't reflect the profession</a></h4>
+<h4><a href = "/2012/08/streamline-requirements-prioritisation-using-a-prioritisation-matrix/">Streamline requirements prioritisation using a prioritisation matrix</a></h4>
+  
+  <h2 style = "margin-top: 1.5em">Recent blog posts</h2>
+  
+  <ul class="post-list">
+    {% for post in site.posts limit:5 %}
+      <li>
+        <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
+
+        <h4 style = "clear: both">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> 
+        </h4>
+    <p class="post-meta post-tags">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.tags %} • &nbsp;{% for tag in post.tags %}<span class = "post-tag">{{ tag }}</span>&nbsp;{% endfor %}&nbsp;{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
+		
+		<!-- <div class = "post-tags">
+	  	  {% for tag in post.tags %}
+	        <span class = "post-tag">{{ tag }}</span>&nbsp;
+	      {% endfor %}
+		</div> -->
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

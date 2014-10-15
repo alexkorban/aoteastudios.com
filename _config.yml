@@ -1,0 +1,21 @@
+# Site settings
+title: "Aotea Studios - BA and PM resources & training"
+email: hello <at> aoteastudios <dot> com
+description: > # this means to ignore newlines until "baseurl:"
+    This is a resource for business analysts and project managers. Learn modern BA techniques, improve your skills and complete projects faster!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://aoteastudios.com" # the base hostname & protocol for your site
+twitter_username: aoteastudios
+
+# Build settings
+markdown: kramdown
+
+# Output settings
+permalink: /:year/:month/:title/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "post"
