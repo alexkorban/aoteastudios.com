@@ -41,3 +41,5 @@ _"I could have done with this poster when studying for my MBA last year. Great s
 _"I've always been a fan of visual communications to further people's  understanding of what needs to be accomplished, or how it is engineered.  This is clean and concise; thanks for sharing it."_ - David Coba, Project Manager at SIG, USA <span style="color: #888888;">about our change management chart</span>
 
 _"A very informative and helpful representation of the change management process - a picture is worth a thousand words!!!"_ - G. Thomas White, IT Project Manager at Keane, USA <span style="color: #888888;">about our change management chart</span>
+
+<hr/>
