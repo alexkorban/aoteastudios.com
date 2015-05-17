@@ -13,7 +13,7 @@ permalink: /blog/
     <h2 style = "clear: both">
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> 
     </h2>
-<p class="post-meta post-tags">{% if post.author %} • {{ post.author }}{% endif %}{% if post.tags %} • &nbsp;{% for tag in post.tags %}<span class = "post-tag">{{ tag }}</span>&nbsp;{% endfor %}&nbsp;{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
+<p class="post-meta post-tags">{% if post.author %}{{ post.author }} • {% endif %}{% if post.tags %}{% for tag in post.tags %}<span class = "post-tag">{{ tag }}</span>&nbsp;{% endfor %}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
 {{ post.excerpt }}
 	
 	<!-- <div class = "post-tags">
