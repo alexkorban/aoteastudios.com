@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-tooltip: C++ tidbits
+tooltip: BA tips and techniques
 permalink: /blog/
 ---
 
