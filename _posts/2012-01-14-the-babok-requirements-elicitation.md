@@ -1,6 +1,6 @@
 ---
 title: "The BABOK: Requirements Elicitation"
-tags: ba babok
+tags: ba babok 
 ---
 
 _This is the fourth post in the Beachcamp series, discussing requirements elicitation. It includes a visual map of the requirements elicitation section._
