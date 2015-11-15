@@ -5,7 +5,8 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{% if page.author %}{{ page.author }} • {% endif %}{% if page.meta %}{{ page.meta }} • {% endif %} &nbsp;{% include share.html %}</p>
+    <p class="post-meta">{% if page.author %}{{ page.author }} • {% endif %}{% if page.meta %}{{ page.meta }} • {% endif %} &nbsp;{% include share.html %}{% if page.tags %} • {% for tag in page.tags %}<a href="/tags/{{ tag }}"><span class="post-tag">{{ tag }}</span></a>&nbsp;{% endfor %}{% endif %}
+    </p>
   </header>
 
   <article class="post-content">

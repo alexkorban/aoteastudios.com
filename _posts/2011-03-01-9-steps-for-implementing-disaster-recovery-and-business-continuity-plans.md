@@ -1,6 +1,6 @@
 ---
 title: "9 steps for implementing disaster recovery and business continuity plans"
-tags: disaster-recovery business-continuity
+tags: ba
 ---
 
 <img src = "/img/christchurch-quake.png" style = "float: left; margin-right: 1em" />

@@ -1,6 +1,6 @@
 ---
 title: "More requirements patterns: discovery"
-tags: ba requirements
+tags: ba requirements patterns
 ---
 
 We live in the era of constant change, as we hear daily in technology news and business meetings. Businesses are trying to keep up with the pace of changes by improving and transforming themselves. More and more initiatives and projects have to be completed "yesterday" meaning that they have very tight deadlines and high urgency.

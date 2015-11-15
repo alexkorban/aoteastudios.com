@@ -1,6 +1,6 @@
 ---
 title: "Applying ITIL for better insight into IT infrastructure"
-tags: ba itil
+tags: ba
 ---
 
 This is a short post to share an idea we've come up with. We'll publish a longer article once we work things out in detail, but we thought that it would be useful to talk about the idea right now.

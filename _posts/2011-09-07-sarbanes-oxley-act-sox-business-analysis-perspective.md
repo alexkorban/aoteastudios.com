@@ -1,6 +1,6 @@
 ---
 title: "Sarbanes-Oxley Act (SOX): Business Analysis Perspective"
-tags: ba sarbanes-oxley
+tags: ba
 ---
 
 _This post discusses what business analysts can learn from the Sarbanes Oxley Act requirements for the purposes of establishing an effective internal control system within the enterprise._

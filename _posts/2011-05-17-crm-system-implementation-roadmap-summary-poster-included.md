@@ -1,6 +1,6 @@
 ---
 title: "CRM system implementation roadmap (summary poster included!)"
-tags: ba crm
+tags: ba
 ---
 
 _The introduction of a CRM is a complex endeavour which requires careful planning. This article presents a roadmap for CRM system implementation and explains who needs to be involved, what needs to be done before the implementation, and what steps the implementation process should include._
