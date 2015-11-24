@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Training & Resources
-tooltip: "Training & resources"
+title: Products
+tooltip: "Products"
 permalink: /products/
 ---
 
 It's hard to find practical resources for business analysis. This is why we came up with a range of training and resources to allow you to learn quickly. 
 
-# Communication for BAs self-paced course
+<h1><a href = "/products/business-analysis/communication-for-bas">Communication for BAs self-paced course</a></h1>
 
 <img src = "/img/comms-course-image-small.png" style = "float: right; margin-left: 1em; border: 0" />
 
@@ -17,7 +17,8 @@ Stakeholders, PMs and executives can be difficult to deal with it. Learn how to 
 
 > *You have provided a lot of insight into a lot of queries I have. Thanks for all the great advice.* – Charles Verissimo, Senior Business Analyst
 
-# Business Analysis Kickstart guide
+<br/>
+<h1><a href = "/products/business-analysis/business-analysis-kickstart">Business Analysis Kickstart guide</a></h1>
 
 <img src = "/img/kickstart-image-small.png" style = "float:right; margin-left: 1em; border: 0" />
 
@@ -27,8 +28,8 @@ Boost your BA skills with this unique visual guide to business analysis. Get a f
 
 > *It captures the essence of business analysis from a practical, real world viewpoint. It will be of tremendous value for both my team of Business Analysts at work and my Business Analysis students at the University of Winnipeg.* – Michael Antonio, Lecturer
 
-
-# Business Analysis Template Kit
+<br/>
+<h1><a href = "/products/business-analysis/business-analysis-template-kit">Business Analysis Template Kit</a></h1>
 
 <img src = "/img/template-kit-image-small.png" style = "float:right; margin-left: 1em; border: 0" />
 
@@ -38,7 +39,7 @@ Produce better documentation with this set of quality BA document templates. Giv
 
 > *I am starting out in Business Analysis and I can see already how useful these are going to be for me! The products are well worth the money and then some :-)* – Jennifer Sharp
 
-# Business Analysis Illustrated poster pack
+<!--# Business Analysis Illustrated poster pack
 
 <img src = "/img/illustrated-image-small.png" style = "float:right; margin-left: 1em; border: 0" />
 
@@ -55,3 +56,4 @@ See the business processes you’re involved in yourself or help to transform. T
 Become more productive and make stakeholders happier by learning to apply visual communication in your work.
 
 ➡ <strong><a href = "/products/business-analysis/visual-communication-for-bas">Learn more</a></strong>.
+-->

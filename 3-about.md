@@ -12,10 +12,12 @@ Aotea Studios was started by Sergey and Alex Korban.
 <img src = "/img/sergey.jpg" style = "float: left; margin-right: 1em; width: 150px; height: 150px" />
 **Sergey** has been in the IT industry for over 28 years and has deep expertise in business analysis and extensive experience in project management and software development management. He's held a variety of roles throughout his career, including a program director and chief sales officer. He enjoys streamlining business operations and processes. 
 
-<div style = "clear: both"></div>
+<div style = "clear: both"><br/><br/></div>
 
 <img src = "/img/alex.jpg" style = "float: left; margin-right: 1em; width: 150px; height: 150px; -webkit-filter: grayscale(100%); -moz-filter: grayscale(100%); filter: grayscale(100%);" />
 **Alex** has over 12 years of experience in software engineering and has worked for a range of companies, from web startups to a US multinational, and on a variety of products including business software, GPS applications and even a flight simulator. He enjoys helping people work more productively.
+
+<div style = "clear: both"><br/><br/></div>
 
 ## How we can help you 
 
@@ -27,9 +29,11 @@ We believe that business analysts are crucial to business success, and by helpin
 
 We have created a [range of products](/products/) to help you learn quickly and be more productive.
 
-We also publish free articles and diagrams on business analysis, enterprise architecture and project management related topics on our blog. You can get free tips by email:
+We also publish free articles and diagrams on business analysis, enterprise architecture and project management related topics on our [blog](/blog/). 
 
-<div id="wufoo-z1l6du8u17qcr7v">
+<!--You can get free tips by email:
+
+ <div id="wufoo-z1l6du8u17qcr7v">
 Fill out my <a href="https://aoteastudios.wufoo.com/forms/z1l6du8u17qcr7v">online form</a>.
 </div>
 <script type="text/javascript">var z1l6du8u17qcr7v;(function(d, t) {
@@ -47,7 +51,7 @@ s.onload = s.onreadystatechange = function() {
 var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
 try { z1l6du8u17qcr7v = new WufooForm();z1l6du8u17qcr7v.initialize(options);z1l6du8u17qcr7v.display(); } catch (e) {}};
 var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');</script>
+})(document, 'script');</script> -->
 
 
 ## What customers say
