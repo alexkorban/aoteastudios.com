@@ -59,7 +59,7 @@ Business Analysis Template Kit is available for just $59. For a price of an inex
 
 > **I am starting out in Business Analysis and I can see already how useful these are going to be for me! The products are well worth the money and then some :-)** <br/>- *Jennifer Sharp, USA*
 
-The templates are in Microsoft Word format. There are two versions included: MS Word 2003 (.dot) and MS Word 2007/2010 (.dotx). The guide is in PDF format.
+The templates are in Microsoft Word format (.dotx) compatible with Microsoft Office 2016. The guide is in PDF format.
 
 <br/>
 <a href = "https://getdpd.com/v2/cart/add/5365/16864/16001" class = "orange-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Get the templates now ➡</span></a>
