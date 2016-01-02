@@ -114,22 +114,6 @@ Apply the steps and tips above to your next process mapping exercise. Practise a
     <a href = "/files/process-mapping.pdf">Download PDF</a>
 </div>
 
----
-
-### Save on BA products
-
-It's Christmas time again, which means you can **save a cool 25% on our products**!
-
-If you want to learn more about _effective techniques for business analysis_, check out  [BA Kickstart](http://aoteastudios.com/products/business-analysis/business-analysis-kickstart/). 
-
-If you need _BA document templates_, you can't go wrong with [BA Template Kit](http://aoteastudios.com/products/business-analysis/business-analysis-template-kit/). 
-
-If you would like to focus on your _communication skills_, go no further than [self-paced course on communication](http://localhost:4000/products/business-analysis/communication-for-bas/).
-
-Use **coupon code XMAS2015** at checkout and save a cool 25%! Only valid before Christmas, don't miss out!
-
----
-
 Until next time!
 
 
