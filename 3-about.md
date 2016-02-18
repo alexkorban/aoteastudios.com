@@ -10,12 +10,12 @@ permalink: /about/
 Aotea Studios was started by Sergey and Alex Korban.
 
 <img src = "/img/sergey.jpg" style = "float: left; margin-right: 1em; width: 150px; height: 150px" />
-**Sergey** has been in the IT industry for over 28 years and has deep expertise in business analysis and extensive experience in project management and software development management. He's held a variety of roles throughout his career, including a program director and chief sales officer. He enjoys streamlining business operations and processes. 
+**Sergey** has been in the IT industry for 33 years and has deep expertise in business analysis and extensive experience in project management and software development management. He's held a variety of roles throughout his career, including a program director and chief sales officer. He enjoys streamlining business operations and processes. 
 
 <div style = "clear: both"><br/><br/></div>
 
 <img src = "/img/alex.jpg" style = "float: left; margin-right: 1em; width: 150px; height: 150px; -webkit-filter: grayscale(100%); -moz-filter: grayscale(100%); filter: grayscale(100%);" />
-**Alex** has over 12 years of experience in software engineering and has worked for a range of companies, from web startups to a US multinational, and on a variety of products including business software, GPS applications and even a flight simulator. He enjoys helping people work more productively.
+**Alex** has over 15 years of experience in software engineering and has worked for a range of companies, from a US multinational to his own startups, and on a variety of products including business software, GPS applications and even a flight simulator. He enjoys helping people work more productively.
 
 <div style = "clear: both"><br/><br/></div>
 

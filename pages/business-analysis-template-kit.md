@@ -70,6 +70,9 @@ The templates are in Microsoft Word format (.dotx) compatible with Microsoft Off
 
 > **Thank you very much again for the third pillar of Aotea's great materials. The two first, since acquired, are my very first reference which guides my journey in discovering and learning BA. Now, you're providing me the corresponding templates just in time before I'll make my hands dirty on two little projects.** <br/>- Jérémie Tarot, CIO, France 
 
+{% include author.html %}
+
+<!--
 ### Save 20%: Buy Template Kit + Business Analysis Kickstart
 
 [Business Analysis Kickstart](/products/business-analysis/business-analysis-kickstart/ "Business analysis guide") is a visual guide to business analysis. It's 95 pages packed with information about business analysis processes and techniques as well as essential knowledge of stakeholder engagement, project management, ITIL and a lot more. 
@@ -77,3 +80,4 @@ The templates are in Microsoft Word format (.dotx) compatible with Microsoft Off
 Buying Kickstart and the Template Kit separately would cost you $156 but you can get them as a bundle for just $124 and **save 20%**!
 
 <a href = "https://getdpd.com/v2/cart/add/5365/25204/24729" class = "grey-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Buy the bundle now ➡</span></a>
+-->
