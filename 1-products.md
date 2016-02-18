@@ -21,7 +21,7 @@ It's hard to find practical resources for business analysis. This is why we came
 
             Not only that, the book will also explain the essentials of enterprise architecture, project management, service management, security management, compliance & regulation, and SDLC -  indispensable subjects for a pro.
             <br/><br/>
-            <strong><a href = "/products/business-analysis/business-analysis-kickstart" style="font-size: 1.3em">Learn more ➡ </a></strong>
+            <strong><a href = "/products/business-analysis/business-analysis-navigator" style="font-size: 1.3em">Learn more ➡ </a></strong>
         </td>
     </tr>
 </table>
