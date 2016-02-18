@@ -89,7 +89,7 @@ If you take a course like this in person, it can easily cost you up to $1000 - _
 
 For the price of a dinner for two, you can improve your skills, make your job easier, and provide more value to your employer. 
 
-Even so, it may seem like a risk. This is why I offer a **30-day 100% money back guarantee**. If you feel like you're didn't get your money's worth, I'll refund you. I take all the risk, so you don't need to worry.
+Even so, it may seem like a risk. This is why I offer a **30-day 100% money back guarantee**. If you feel like you didn't get your money's worth, I'll refund you. I take all the risk, so you don't need to worry.
 
 ## What customers say...
 
