@@ -247,7 +247,10 @@ Mastering these techniques will help you produce better results and provide more
 <img src="/img/ba-navigator-cover.jpg" style="width: 100%; margin-left: auto; margin-right: auto;">
 
 <br/>
-For the price of a fancy dinner for two, this book will show you business analysis from a practical, real world perspective and help you crystallise your knowledge. 
+
+For the price of a fancy dinner for two, this book will show you business analysis from a practical, real world perspective and help you crystallise your knowledge. That dinner likely did nothing to improve your career prospects! Investing in your skills, on the other hand, is essential for your career.
+
+<br/>
 
 <a href = "https://aoteastudios.dpdcart.com/cart/add?product_id=125941&method_id=134216" class = "orange-button" style = "width: 100%; box-sizing: border-box;"><span class = "main-text">Get the book now ➡</span><span class = "extra-text">just a $97 investment</span></a>
 
@@ -255,7 +258,9 @@ For the price of a fancy dinner for two, this book will show you business analys
     (<a href="/files/ba-navigator-sample.pdf">check out the sample</a> if you haven't already)
 </div>
 
-Remember the last time you had to get your car serviced? Or your latest electronic gadget? Those things probably cost more than this book - and did nothing to improve your career prospects. Investing in your skills, on the other hand, is essential for your career.
+<br/>
+
+<img src="/img/guarantee-stamp-small.png" style="width: 100px; float: right; border: none" />
 
 Even so, it may seem like a risk. This is why I offer a **30-day 100% money back guarantee**. If you feel like you didn't get your money's worth, I'll refund you. I take all the risk, so there's no reason for you not to buy!
 <br/><br/>
