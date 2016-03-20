@@ -64,6 +64,8 @@ The templates are in Microsoft Word format (.dotx) compatible with Microsoft Off
 <br/>
 <a href = "https://getdpd.com/v2/cart/add/5365/16864/16001" class = "orange-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Get the templates now ➡</span></a>
 
+<img src="/img/guarantee-stamp-small.png" style="width: 100px; float: right; border: none" />
+
 **Money back guarantee:** We are confident that the template kit will be useful to you, but in the unlikely case it isn't, we offer a 30-day money back guarantee if you’re not satisfied, so there's no risk to you. Purchase with confidence!
 
 ---
@@ -72,12 +74,11 @@ The templates are in Microsoft Word format (.dotx) compatible with Microsoft Off
 
 {% include author.html %}
 
-<!--
-### Save 20%: Buy Template Kit + Business Analysis Kickstart
 
-[Business Analysis Kickstart](/products/business-analysis/business-analysis-kickstart/ "Business analysis guide") is a visual guide to business analysis. It's 95 pages packed with information about business analysis processes and techniques as well as essential knowledge of stakeholder engagement, project management, ITIL and a lot more. 
+### Save 20%: Buy Template Kit + A Navigator to Business Analysis
 
-Buying Kickstart and the Template Kit separately would cost you $156 but you can get them as a bundle for just $124 and **save 20%**!
+[A Navigator to Business Analysis](/products/business-analysis/business-analysis-navigator/ "A Navigator to Business Analysis") is a comprehensive guide to business analysis packed with information about business analysis processes and techniques as well as essential knowledge of stakeholder engagement, project management, ITIL and a lot more.
 
-<a href = "https://getdpd.com/v2/cart/add/5365/25204/24729" class = "grey-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Buy the bundle now ➡</span></a>
--->
+Buying Navigator and the Template Kit separately would cost you $156 but you can get them as a bundle for just $124 and **save 20%**!
+
+<a href = "https://aoteastudios.dpdcart.com/cart/add?product_id=128481&method_id=137131" class = "grey-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Buy the bundle now ➡</span></a>
