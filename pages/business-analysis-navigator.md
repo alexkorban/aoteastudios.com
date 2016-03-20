@@ -51,11 +51,11 @@ _A Navigator to Business Analysis_ follows the same successful approach:
 
 The sample excerpts a section from each part of the book. 
 
-[Download PDF sample](/files/ba-navigator-sample.pdf)
+**[Download PDF sample](/files/ba-navigator-sample.pdf)**
 
 <br/>
 
-<a href = "https://aoteastudios.dpdcart.com/cart/add?product_id=125941&method_id=134216" class = "grey-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Preorder the book now for <strike>$97</strike> $69 ➡</span></a>
+<a href = "https://aoteastudios.dpdcart.com/cart/add?product_id=125941&method_id=134216" class = "grey-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Get the book now ➡</span><span class = "extra-text">just a $97 investment</span></a>
 
 <br/>
 
@@ -64,11 +64,87 @@ The sample excerpts a section from each part of the book.
 Part 1 of the book is all about different aspects of business analysis:
 
     Module 1: Business Analysis Overview 
+        What is Business Analysis? ... 12 
+        Business Analysis in Nutshell ... 13 
+        Analysis Planning and Management ... 15 
+        Current State Analysis ... 17 
+        Requirements Gathering ... 19 
+        Requirements Analysis ... 21 
+        Requirements Communication ... 23 
+        Future State ... 24 
+        Solution Evaluation ... 25 
+        Context of Business Analysis ... 26 
+        Revision ... 28 
+        Assignment ... 29
     Module 2: Business Analyst's Core Skills
+        Business Analyst's Core Skills ... 32 
+        Listen ... 33 
+        Watch ... 37 
+        Explore/Read ... 39 
+        Speak ... 41 
+        Write ... 51 
+        Draw ... 53 
+        Link ... 55 
+        Iterate ... 56 
+        Revision ... 57 
+        Assignment ... 58
     Module 3: Business Analysis Lifecycle
+        Business Analysis Lifecycle ... 62 
+        Plan ... 63 
+        Define ... 64 
+        Analyse ... 65 
+        Design ... 66 
+        Build ... 67 
+        Test ... 68 
+        Deploy ... 69 
+        Business Analysis Lifecycle Map ... 70
     Module 4: Business Analysis Techniques
+        Decision Modelling ... 92                           Process Modelling ... 113 
+        Document Analysis ... 93                            Prototyping ... 114
+        Estimation ... 94                                   Requirements Communication Analysis ... 115 
+        Financial Analysis ... 96                           Requirements Management Plannning ... 116
+        Focus Groups ... 97                                 Reviews ... 117
+        Functional Decomposition ... 98                     Risk Analysis & Management ... 118
+        Glossary ... 100                                    Roles & Permissions Matrix ... 119
+        Interface Analysis ... 101                          Root Cause Analysis ... 120
+        Interview ... 102                                   Scope Modelling ... 121
+        Item Tracking ... 103                               Sequence Diagram ... 122
+        Lessons Learned ... 104                             Stakeholder List, Map, Personas ... 123
+        Metrics & KPIs ... 105                              State Modelling ... 124
+        Mind Mapping ... 106                                Survey / Questionnaire ... 125
+        Non-Functional Requirements Analysis ... 107        SWOT Analysis ... 126
+        Observation ... 109                                 Use Cases & Scenarios ... 127
+        Organisational Modelling ... 110                    User Stories ... 128
+        Prioritisation ... 111                              Vendor Assessment ... 129
+        Process Analysis ... 112                            Workshops ... 130
     Module 5: Business Analysis Techniques, Insights
+        Pocket Guide ... 134 
+        Strategy of Change ... 135 
+        Requirements Management ... 136 
+        Non-Functional Requirements ... 140 
+        Effective Workshop ... 141 
+        User Story ... 161 
+        Use Case ... 164 
+        Process Analysis ... 170 
+        Personality Types ... 173 
+        Matching Language ... 175 
+        Solution Evaluation ... 176
     Module 6: Business Analysis Templates
+        Introduction ... 180 
+        Business Analysis Templates ... 182 
+        Current State Analysis ... 184 
+        Business Case ... 187 
+        Project Vision ... 190 
+        Requirements Management Plan ... 192 
+        Solution Vision ... 196 
+        Business Requirements ... 198 
+        Use Case Model ... 199 
+        Use Case Specification ... 200 
+        Business Process Design ... 201 
+        Non-Functional Requirements ... 202 
+        Solution Glossary ... 203 
+        Interface Specification ... 205 
+        Revision ... 208    
 
 You will understand the core skills required for a business analyst, learn about BA lifecycle, and get introduced to all the relevant techniques used in performing business analysis. 
 
@@ -81,40 +157,85 @@ Part 1 will particularly suit those readers who are considering business analysi
 To be successful as a BA, you need to understand <span style = "background-color: #fff77c">more than just analysis</span>, and that's why Part 2 of the book is dedicated to things which aren't part of the business analysis but are nonetheless essential for a BA to understand:
 
     Module 7: Enterprise Architecture 
+        Enterprise Architecture ... 217 
+        BA's View Of Enterprise Architecture ... 220 
+        Analysis Points ... 221 
+        Enterprise Architecture Principles ... 222 
+        Enterprise Architecture Frameworks ... 223
     Module 8: Project Management 
+        Project Management ... 232 
+        Project Context ... 235 
+        Project Collaboration ... 237 
+        Project Management Techniques ... 242 
+        Responsibility Matrix ... 245 
+        Stakeholder Engagement ... 248
     Module 9: Service Management 
-    Module 10: Security Management 
-    Module 11: Compliance & Regulation  
+        Introduction ... 254 
+        Service Strategy ... 258 
+        Service Design ... 260 
+        Service Transition ... 262 
+        Service Operation ... 264 
+        Service Catalogue ... 266
+    Module 10: Security Management
+        Governance Pyramid ... 272 
+        Four P's ... 274 
+        SABSA Framework ... 275 
+        Added Value ... 283
+    Module 11: Regulation  
+        Internal Regulation ... 287 
+        Interpretation ... 294 
+        External Regulation ... 298 
+        Interpretation ... 300
     Module 12: SDLC 
+        Introduction ... 307 
+        SDLC Concept ... 308 
+        SDLC and Business Analysis ... 309 
+        Business Process Analysis ... 310 
+        Requirements ... 312 
+        Requirements in System Development ... 315 
+        System Design ... 320 
+        User Experience ... 321 
+        User Interface ... 326 
+        Unit Test ... 330 
+        Integration Test ... 331 
+        Performance Test ... 333 
+        User Acceptance Test ... 335 
+        Documentation ... 336 
+        Deployment ... 337
 
 In these sections, I give you carefully extracted knowledge about all these areas which is relevant to business analysts. How many books would you have to read to find it all out yourself? Save you all that time and expense!
 
-## Building up your value
+## BONUS Part 3: Building up your value
+
+The first two parts of the book will provide you with a wealth of knowledge, but I didn't feel that I was quite done after completing them. So I added in a bonus Part 3. 
 
 When you read an ad about a business analyst position, you see that certain domain knowledge, and hard and soft skills are required from a candidate. A unique blend of your skills and experience is what makes your CV noticeable in a pile of other CVs.
 
 How can you create that unique blend? What are the key components? Part 3 of the book is focused on answering these questions. Here is the table of contents for it:
 
-    Values System ... 5
-    Focus on Growth ... 6
-    Negotiation ... 8
-    Resilience ... 12
-    Leadership ... 18
-    Learning Business Domain ... 22
-    Failures – Lessons Learned ... 27
-    Keeping Up to Date ... 30
-    Building Productive Relationships ... 32
-    Managing Communications ... 33
-    Behavioral Models ... 35
-    e-Leadership ... 53
-    Requirements: Discovery Patterns ... 57
-    Requirements: Patterns ... 63
-    Poor Requirements: Impact ... 68
-    Change Management ... 71
-    Risk Management ... 73
-    Issues Management ... 75
-    Functional Business Model ... 77
-    User Experience ... 79
+    Values System ... 343
+    Focus on Growth ... 344
+    Negotiation ... 347
+    Resilience ... 351
+    Leadership ... 357
+    Learning Business Domain ... 361
+    Failures – Lessons Learned ... 366
+    Keeping Up To Date ... 369
+    Building Productive Relationships ... 371
+    Managing Communications ... 372
+    Behavioral Models ... 374
+    Engaging Stakeholders ... 380
+    e-Leadership ... 383
+    Requirements: Discovery Patterns ... 387
+    Requirements: Patterns ... 393
+    Poor Requirements: Impact ... 398
+    Change Management ... 401
+    Risk Management ... 403
+    Issues Management ... 405
+    Universal Functional Business Model ... 407
+    User Experience ... 409
+    Customer Experience Mapping ... 413
+    Analysis Patterns: Big Data ... 419
 
 Mastering these techniques will help you produce better results and provide more value to your employer. 
 
@@ -126,9 +247,9 @@ Mastering these techniques will help you produce better results and provide more
 <img src="/img/ba-navigator-cover.jpg" style="width: 100%; margin-left: auto; margin-right: auto;">
 
 <br/>
-_A Navigator to Business Analysis_ will be priced at $97, but right now it's available for preorder for just $69. You will get the book when it is published in a few weeks. For the price of a dinner for two, this book will show you business analysis from a practical, real world perspective and help you crystallise your knowledge. 
+For the price of a fancy dinner for two, this book will show you business analysis from a practical, real world perspective and help you crystallise your knowledge. 
 
-<a href = "https://aoteastudios.dpdcart.com/cart/add?product_id=125941&method_id=134216" class = "orange-button" style = "width: 100%; box-sizing: border-box;"><span class = "main-text">Preorder the book now ➡</span><span class = "extra-text">just a <strike>$97</strike> $69 investment</span></a>
+<a href = "https://aoteastudios.dpdcart.com/cart/add?product_id=125941&method_id=134216" class = "orange-button" style = "width: 100%; box-sizing: border-box;"><span class = "main-text">Get the book now ➡</span><span class = "extra-text">just a $97 investment</span></a>
 
 <div style="text-align: center">
     (<a href="/files/ba-navigator-sample.pdf">check out the sample</a> if you haven't already)
@@ -141,23 +262,21 @@ Even so, it may seem like a risk. This is why I offer a **30-day 100% money back
 
 ---
 
-<!-- 
 ### Save 20%: Buy BA Navigator + BA Template Kit 
 
 [Business Analysis Template Kit](/products/business-analysis/business-analysis-template-kit/ "Document templates") is a comprehensive set of 12 templates which will help you produce better BA documentation. It comes complete with a requirements management plan and a 16-page guide. 
 
 Buying BA Navigator and the Template Kit separately would cost you $156 but you can get them as a bundle for just $124 and **save 20%**!
 
-<a href = "https://getdpd.com/v2/cart/add/5365/25204/24729" class = "grey-button" style = "width: 50%; margin-left: auto; margin-right: auto"><span class = "main-text">Buy the bundle now ➡</span></a>
+<a href = "https://aoteastudios.dpdcart.com/cart/add?product_id=128481&method_id=137131" class = "grey-button" style = "width: 50%; margin-left: auto; margin-right: auto"><span class = "main-text">Buy the bundle now ➡</span></a>
 
 ### Want to get the book for the whole team?
 
-If you want all your team members to have access to the book without the hassle of purchasing and tracking individual copies, you can purchase a team licence for up to 100 people for just $499.
+If you want all your team members to have access to the book without the hassle of purchasing and tracking individual copies, you can purchase a team licence for the whole team (up to 100 members) for just $499.
 
-<a href = "https://getdpd.com/v2/cart/add/5365/10140/13096" class = "grey-button" style = "width: 50%; margin-left: auto; margin-right: auto"><span class = "main-text">Buy team licence now ➡</span></a>
+<a href = "https://aoteastudios.dpdcart.com/cart/add?product_id=125941&method_id=134260" class = "grey-button" style = "width: 50%; margin-left: auto; margin-right: auto"><span class = "main-text">Buy team licence now ➡</span></a>
 ---
 
--->
 
 
 ### About the author
