@@ -1,9 +1,9 @@
 ---
-title: "6 Non-BA Subjects a BA Must Understand"
+title: "6 Non-BA Subjects a BA Must Understand (Part 1)"
 tags: ba pm enterprise-architecture
 ---
 
-I'm currently finishing up a new book, "A Navigator Into Business Analysis". A thing that many people might find surprising is that the second half of the book is dedicated to things which on the surface aren't part of business analysis. Here is the list of modules in Part 2:
+I've recently published a new book, ["A Navigator to Business Analysis"](/products/business-analysis/business-analysis-navigator). A thing that many people might find surprising is that the second half of the book is dedicated to things which on the surface aren't part of business analysis. Here is the list of modules in Part 2:
 
     Module 7: Enterprise Architecture 
     Module 8: Project Management 
@@ -13,8 +13,6 @@ I'm currently finishing up a new book, "A Navigator Into Business Analysis". A t
     Module 12: SDLC 
 
 In this post, I'd like to delve into the reasons why I think understanding these subjects is a must for a BA. 
-
-If you find yourself asking: "what is the point of all this stuff?" - read on. If, instead, you can already see the value in all of these subjects, you can [pre-order the book right now](/products/business-analysis/business-analysis-navigator) at the early bird price of $69. 
 
 ## Enterprise Architecture
 
@@ -62,11 +60,9 @@ Indeed, it can be rather overwhelming. This is why I distilled the huge amount o
 
 Part 1 and Part 2 of "A Navigator Into Business Analysis" together will be a powerful source of knowledge both to people who have recently started their BA career and want to quickly acquire effective skills, as well as those who have been around for a while and are keen to advance their skills and grow their professional value.
 
-The book is getting a few final touches and will be available to you in a few weeks. Right now, you can pre-order it for just $69 and save $28. You will still get the **30 day money back guarantee** from the publication date, so you are not risking anything by buying the book now.  
+**[Find out more about the book](/products/business-analysis/business-analysis-navigator)**
 
 **[Check out the free sample](/files/ba-navigator-sample.pdf)**
-
-**[Preorder the book](/products/business-analysis/business-analysis-navigator)**
 
 (If you've previously purchased BA Kickstart, [get in touch](/contact) for an extra-special price.)
 
