@@ -280,20 +280,5 @@ Buying BA Navigator and the Template Kit separately would cost you $156 but you 
 If you want all your team members to have access to the book without the hassle of purchasing and tracking individual copies, you can purchase a team licence for the whole team (up to 100 members) for just $499.
 
 <a href = "https://aoteastudios.dpdcart.com/cart/add?product_id=125941&method_id=134260" class = "grey-button" style = "width: 50%; margin-left: auto; margin-right: auto"><span class = "main-text">Buy team licence now ➡</span></a>
----
 
-
-
-### About the author
-
-<img src = "/img/sergey.jpg" style = "float: left; margin-right: 1em; width: 150px; height: 150px" /> Hi, I'm Sergey Korban, a business analysis practitioner and mentor with over 33 years of field experience. 
-
-My experience covers public and private companies in industries such as computer hardware distribution, software retail, automotive (a car dealership chain), ERP systems (business consulting and software development), mobile solutions and utilities.
-
-I have worked on various types of projects (compliance, process improvement, business transformation, technology replacement and upgrades, software implementation to name a few).
-
-I live in Wellington, the beautiful and windy capital of New Zealand. I work in the energy sector, delivering compliance, business and technology projects following modern BA, PM, ITIL and Agile methodologies.
-
-I am certified in PRINCE2, ITIL and Agile. I contribute to the BA community through the Aotea Studios blog and many articles illustrating different aspects of business analysis and project management.
-
-I hope that you will get a lot of value out of my book!
+{% include author.html %}

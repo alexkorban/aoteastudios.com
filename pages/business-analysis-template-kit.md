@@ -72,8 +72,6 @@ The templates are in Microsoft Word format (.dotx) compatible with Microsoft Off
 
 > **Thank you very much again for the third pillar of Aotea's great materials. The two first, since acquired, are my very first reference which guides my journey in discovering and learning BA. Now, you're providing me the corresponding templates just in time before I'll make my hands dirty on two little projects.** <br/>- Jérémie Tarot, CIO, France 
 
-{% include author.html %}
-
 
 ### Save 20%: Buy Template Kit + A Navigator to Business Analysis
 
@@ -82,3 +80,5 @@ The templates are in Microsoft Word format (.dotx) compatible with Microsoft Off
 Buying Navigator and the Template Kit separately would cost you $156 but you can get them as a bundle for just $124 and **save 20%**!
 
 <a href = "https://aoteastudios.dpdcart.com/cart/add?product_id=128481&method_id=137131" class = "grey-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Buy the bundle now ➡</span></a>
+
+{% include author.html %}
