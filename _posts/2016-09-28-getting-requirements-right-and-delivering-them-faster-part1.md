@@ -5,7 +5,7 @@ tags: ba requirements
 
 In this series of five posts, I'd like to talk about getting requirements right and delivering them faster. My goal is to provide you with new techniques and approaches for producing high quality requirements on your projects. 
 
-If you've taken our free email course called Getting Requirements Right - this series of posts covers the same ground. We've now put up a new free course which you may be interested in: [/free-course](BABOK 3 Navigation Maps).
+If you've taken our free email course called Getting Requirements Right - this series of posts covers the same ground. We've now put up a new free course which you may be interested in: [BABOK 3 Navigation Maps](/free-course).
 
 I've been doing business analysis for a wide variety of projects over the last twenty years. I've encountered tight deadlines, difficult compliance requirements and conflicting stakeholders. 
 
