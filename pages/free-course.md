@@ -10,7 +10,7 @@ This course will help you better understand the content of each Knowledge Area i
 <form action="https://www.getdrip.com/forms/4583944/submissions" method="post" data-drip-embedded-form="4583944">
     <div>
         <label for="fields[email]">Your email:</label><br />
-        <input type="email" name="fields[email]" value="" style="border: 2px solid #e0e0e0; border-radius: 3px; width: 300px; font-weight: bold;"/>
+        <input type="email" name="fields[email]" value="" class="dripInput" />
     </div>
   <div>
     <input type="submit" class="orange-button" name="submit" value="Get the course" data-drip-attribute="sign-up-button" style="margin-left: 5px"/>
