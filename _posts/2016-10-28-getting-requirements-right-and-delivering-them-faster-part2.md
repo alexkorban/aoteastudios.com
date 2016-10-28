@@ -92,9 +92,9 @@ At the end of these steps, you'll have a completed process design!
 
 Different methods of illustrating processes and their elements have been developed over time. You can start learning about them using the following links:
 
-BPMN (www.bpmn.org) 
-EPC (http://en.wikipedia.org/wiki/Event-driven_process_chain)
-UML Activity diagrams (UML Activity Diagram)
+* [BPMN](www.bpmn.org) 
+* [EPC](http://en.wikipedia.org/wiki/Event-driven_process_chain)
+* [UML Activity diagrams](https://www.tutorialspoint.com/uml/uml_activity_diagram.htm)
 
 
 In the next post, we are going to take a look at user stories. 
