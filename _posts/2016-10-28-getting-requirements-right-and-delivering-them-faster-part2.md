@@ -7,7 +7,7 @@ This is part 2 of a 5 part series of posts where I talk about getting requiremen
 
 Apart from pure technology projects, any other projects within an organisation will impact on the existing business processes. Regardless of how the solution is described, a BA must ensure good alignment between the new solution and the actions of people in the organisation - that is, the impacted processes. How can you reach this goal?
 
-####Start from a function
+### Start from a function
 
 A process designed in isolation is not easy to integrate into the existing process landscape within the organisation. When you design a process, start by thinking about the business function it belongs to. This way you will get a sense of linkages with other processes from the adjacent functions. Inputs/outputs and data in these functions will make sense as they become a natural context for your design.
 
@@ -27,7 +27,7 @@ To give you an idea about business functions, here is a short list of the most c
  * Stock & Logistics
  * Assets Management
 
-####Process activities
+### Process activities
 
 Define the activities as units of work that have
 
@@ -40,7 +40,7 @@ Define the activities as units of work that have
 Note that activities can include several units of work.
 
 
-####What is an event trigger?
+### What is an event trigger?
 
 The event trigger I mentioned above represents something that initiates the activity. The event can take many forms:
 
@@ -50,7 +50,7 @@ The event trigger I mentioned above represents something that initiates the ac
  * Chat or text message 
  * Error that occurred 
 
-####What is input data?
+### What is input data?
 
 The input data comes from the event trigger and can take many forms:
 
@@ -59,15 +59,15 @@ The input data comes from the event trigger and can take many forms:
  * Text
  * Documents containing all above
 
-####What is data transformation?
+### What is data transformation?
 
 Business processes are governed by business rules.  Depending on the conditions, the activities within the process can follow different routes. The rules define in which way and under which conditions the input data will appear at the end of each process activity.
 
-####What is output data?
+### What is output data?
 
 The output data is a result of processing the input data and adding something to transform and enrich it in order to create value that the business process is designed for.
 
-####How to document process design?
+### How to document process design?
 
 I always start from documenting the Current State. This state gives you the business context: 
 
@@ -88,7 +88,7 @@ Then add a section outlining the benefits of the proposed changes, affected acto
 
 At the end of these steps, you'll have a completed process design!
 
-####Modelling notations
+### Modelling notations
 
 Different methods of illustrating processes and their elements have been developed over time. You can start learning about them using the following links:
 
