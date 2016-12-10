@@ -1,5 +1,6 @@
 ---
 layout: page
+showInMenu: "yes"
 title: Products
 tooltip: "Products"
 permalink: /products/

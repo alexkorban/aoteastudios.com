@@ -1,5 +1,6 @@
 ---
 layout: page
+showInMenu: "yes"
 title: Blog
 tooltip: BA tips and techniques
 permalink: /blog/
