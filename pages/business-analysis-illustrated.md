@@ -102,7 +102,7 @@ The charts are in <span style = "background-color: #fff77c">PDF format</span>. T
 
 ### Save 20%: Buy BA Illustrated + BA Template Kit
 
-[Business Analysis Template Kit](/products/business-analysis/business-analysis-template-kit/ "Document templates") is a comprehensive set of 12 templates which will help you produce better BA documentation. It comes complete with a requirements management plan and a 16-page guide. Buying Kickstart and the Template Kit separately would cost you $98 but you can get them as a bundle for just $79 and **save 20%**!
+[Business Analysis Template Kit](/products/business-analysis/business-analysis-template-kit/ "Document templates") is a comprehensive set of 12 templates which will help you produce better BA documentation. It comes complete with a requirements management plan and a 16-page guide. Buying BA Illustrated and the Template Kit separately would cost you $98 but you can get them as a bundle for just $79 and **save 20%**!
 
 <a href = "https://getdpd.com/v2/cart/add/5365/25206/24731" class = "grey-button" style = "width: 50%; margin-left: auto; margin-right: auto"><span class = "main-text">Buy the bundle now ➡</span></a>
 
