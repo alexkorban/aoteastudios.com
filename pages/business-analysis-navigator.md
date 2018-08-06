@@ -21,7 +21,7 @@ Imagine if there was a business analysis book which was laser-focused on giving 
 
 ## A Navigator to Business Analysis
 
-I have condensed decades of practical experience, a dozen books, and countless articles into just one book. You can learn quickly with this book.
+I have condensed decades of practical experience, a dozen books, and countless articles into just one ebook. You can learn quickly with this book.
 
 _A Navigator to Business Analysis_ is a book full of useful tips on communication with business users, obtaining information by observing users' activities, documenting the results of analysis, getting your point across with visual aids, and more.
 
@@ -55,7 +55,7 @@ The sample excerpts a section from each part of the book.
 
 <br/>
 
-<a href = "https://aoteastudios.dpdcart.com/cart/add?product_id=125941&method_id=134216" class = "grey-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Get the book now ➡</span><span class = "extra-text">just a $97 investment</span></a>
+<a href = "https://aoteastudios.dpdcart.com/cart/add?product_id=125941&method_id=134216" class = "grey-button" style = "width: 90%; margin-left: auto; margin-right: auto"><span class = "main-text">Get the ebook now ➡</span><span class = "extra-text">just a $97 investment</span></a>
 
 <br/>
 
@@ -250,9 +250,24 @@ Mastering these techniques will help you produce better results and provide more
 
 For the price of a fancy dinner for two, this book will show you business analysis from a practical, real world perspective and help you crystallise your knowledge. That dinner likely did nothing to improve your career prospects! Investing in your skills, on the other hand, is essential for your career.
 
+<table style="width:50%">
+    <tr>
+        <td>Format</td>
+        <td>PDF</td>
+    </tr>
+    <tr>
+        <td>Pages</td>
+        <td>435</td>
+    </tr>
+    <tr>
+        <td>Money back guarantee</td>
+        <td>30 days</td>
+    </tr>
+</table>
+
 <br/>
 
-<a href = "https://aoteastudios.dpdcart.com/cart/add?product_id=125941&method_id=134216" class = "orange-button" style = "width: 100%; box-sizing: border-box;"><span class = "main-text">Get the book now ➡</span><span class = "extra-text">just a $97 investment</span></a>
+<a href = "https://aoteastudios.dpdcart.com/cart/add?product_id=125941&method_id=134216" class = "orange-button" style = "width: 100%; box-sizing: border-box;"><span class = "main-text">Get the ebook now ➡</span><span class = "extra-text">just a $97 investment</span></a>
 
 <div style="text-align: center">
     (<a href="/files/ba-navigator-sample.pdf">check out the sample</a> if you haven't already)
