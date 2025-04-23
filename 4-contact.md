@@ -6,8 +6,6 @@ tooltip: Questions and comments
 permalink: /contact/
 ---
 
-Get in touch at **hello {at} aoteastudios {dot} com** or use the form below.
-
 <form action="https://formspree.io/f/hello@aoteastudios.com" method="POST">
     <input type="text" name="name" placeholder="Your name" style = "width: 30%">
     <input type="text" name="_gotcha" style="display:none">
